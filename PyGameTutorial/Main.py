@@ -16,7 +16,7 @@ pygame.font.get_init()
 running  = True
 g = pygame.display.set_mode((400,600))
 
-pygame.display.set_caption("Can't rotate tris")
+pygame.display.set_caption("Your mom gay")
 
 
 gc = GameContext()
